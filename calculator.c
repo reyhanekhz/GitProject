@@ -1,6 +1,6 @@
 #include <stdio.h>
 int calculate(int a, int b)
 {
-  //Some calculation
+  //different calculation
   return a*b;
 }
